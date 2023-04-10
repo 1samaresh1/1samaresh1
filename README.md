@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samaresh Patra</h1>
 <h3 align="center">I'm Currently Studying Computer Applications</h3>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1samaresh1&label=Profile%20views&color=0e75b6&style=flat" alt="1samaresh1" /> </p>
 
