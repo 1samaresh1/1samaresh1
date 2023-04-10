@@ -1,3 +1,4 @@
+![logo](https://github.com/1samaresh1/1samaresh1/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Samaresh Patra</h1>
 <h3 align="center">I'm Currently Studying Computer Applications</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
